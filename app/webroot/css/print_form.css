@@ -1,0 +1,81 @@
+.display_none {
+    display:none;
+}
+table.gridtable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+}
+table.gridtable header {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #d3e9ff;
+}
+table.gridtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+
+body, th, td {
+	font-family: arial, sans-serif;
+	margin: 5px;
+	font-size: 13px;
+}
+.bold13 {
+	font-size: 13px;
+	font-weight: bold;
+}
+.bold16 {
+	font-size: 16px;
+	font-weight: bold;
+}
+.bold14underline {
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.underline {
+	text-decoration: underline;
+}
+.normal11 {
+	font-size: 11px;
+}
+.border {
+	border: 1px solid #000;
+	font-weight: bold;
+}
+td {
+}
+.border_L {
+	border-left: 1px solid #000;
+}
+.border_R {
+	border-right: 1px solid #000;
+}
+.border_T {
+	border-top: 1px solid #000;
+}
+.border_b {
+	border-bottom: 1px solid #000;
+}
+.Average {
+	text-align: center;
+	font-weight: bold;
+}
+/*table#mytable, th#mytable, td#mytable {border:1px #b2b1b6 solid; vertical-align: top;}*/
+table.myTable {
+	border-collapse: collapse;
+}
+table.myTable th, table.myTable td {
+	border: 1px solid black;
+	padding: 2px;
+}
+.pagebreak { page-break-before: always;} 

@@ -1,0 +1,554 @@
+msgid 	"company types"
+msgstr 	"Type of Company"
+
+msgid	"Company Type Name"
+msgstr 	"Type of Organization"
+
+msgid	"Company Name"
+msgstr 	"Name of Company"
+
+msgid	"Phone Number 1"
+msgstr 	"Phone"
+
+msgid	"Phone Number 2"
+msgstr 	"Mobile"
+
+msgid	"client add membership"
+msgstr 	"Register"
+
+msgid	"Edition Name"
+msgstr 	"Published From  / Edition"
+
+msgid	"Publication Type Name"
+msgstr 	"Publication Type"
+
+msgid	"Language Name"
+msgstr 	"Language"
+
+msgid	"Frequency Type Name"
+msgstr 	"Frequency"
+
+msgid	"Category Name"
+msgstr 	"Nature of Publication (Category)"
+
+msgid	"Date Of Chque Dd No"
+msgstr 	"Date of Chque No. / DD No. / NEFT No."
+
+msgid	"Chque Dd No"
+msgstr 	"Chque No. / DD No. / NEFT No."
+
+msgid	"Bank Name"
+msgstr 	"Name of Bank"
+
+msgid	"Comments If Any"
+msgstr 	"Comments (If Any)"
+
+msgid	"Name Of Publications Used For Advert"
+msgstr 	"Name of Publications used for advertisement"
+
+msgid	"Price"
+msgstr 	"Cover Price"
+
+msgid	"Rni Number"
+msgstr 	"RNI Number"
+
+msgid	"File Rni Document"
+msgstr 	"Upload of RNI Document"
+
+msgid	"Printed At Name"
+msgstr 	"Printed At"
+
+msgid	"Nss Tt Single 10"
+msgstr 	"upto 10%"
+
+msgid	"Nss Tt Single 20"
+msgstr 	"10.01% to 20%"
+
+msgid	"Nss Tt Single 30"
+msgstr 	"20.01% to 30%"
+
+msgid	"Nss Tt Single 40"
+msgstr 	"30.01% to 40%"
+
+msgid	"Nss Tt Single 50"
+msgstr 	"40.01% to 50%"
+
+msgid	"Nss Tt Single 60"
+msgstr 	"50.01% to 60%"
+
+msgid	"Nss Tt Single 70"
+msgstr 	"60.01% to 70%"
+
+msgid	"Nss Tt Single 80"
+msgstr 	"70.01% to 80%"
+
+msgid	"Nss Tt Single 90"
+msgstr 	"80.01% to 90%"
+
+msgid	"Nss Tt Single 100"
+msgstr 	"above 90%"
+
+msgid	"Ss Tt Single Direct Subs Copies At Nil"
+msgstr 	"Direct  subs.Copies @ NIL %"
+
+msgid	"Ss Tt Single 10"
+msgstr 	"upto 10%"
+
+msgid	"Ss Tt Single 20"
+msgstr 	"10.01% to 20%"
+
+msgid	"Ss Tt Single 30"
+msgstr 	"20.01% to 30%"
+
+msgid	"Ss Tt Single 40"
+msgstr 	"30.01% to 40%"
+
+msgid	"Ss Tt Single 50"
+msgstr 	"40.01% to 50%"
+
+msgid	"Ss Tt Single 60"
+msgstr 	"50.01% to 60%"
+
+msgid	"Ss Tt Single 70"
+msgstr 	"60.01% to 70%"
+
+msgid	"Ss Tt Single 80"
+msgstr 	"70.01% to 80%"
+
+msgid	"Ss Tt Single 90"
+msgstr 	"80.01% to 90%"
+
+msgid	"Ss Tt Single 100"
+msgstr 	"above 90%"
+
+msgid	"Single Nnr 10"
+msgstr 	"0 TO 10% above the NRR"
+
+msgid	"Single Nnr 20"
+msgstr 	"10.1% TO 20% above the NRR"
+
+msgid	"Single Nnr 100"
+msgstr 	"More than 20% above the NRR"
+
+msgid	"Single Nnr Below NRR Within Qualifying"
+msgstr 	"Below the NRR, however within the qualifying criteria"
+
+msgid	"Single Airlines"
+msgstr 	"Airlines"
+
+msgid	"Single Body Corporates"
+msgstr 	"Body Corporates"
+
+msgid	"Single Hotels"
+msgstr 	"Hotels"
+
+msgid	"Single Libraries"
+msgstr 	"Libraries"
+
+msgid	"Single Others"
+msgstr 	"Others"
+
+msgid	"Instn Airlines"
+msgstr 	"Airlines"
+
+msgid	"Instn Body Corporates"
+msgstr 	"Body Corporates"
+
+msgid	"Instn Hotels"
+msgstr 	"Hotels"
+
+msgid	"Instn Libraries"
+msgstr 	"Libraries"
+
+msgid	"Instn Others"
+msgstr 	"Others"
+
+msgid	"Total Ss Sa Average Monthly Qualifying Circulation 1"
+msgstr 	"Total Average Qualifying Sales"
+
+msgid	"Average Total Qualifying Sales"
+msgstr 	"Total Average Qualifying Sales"
+
+msgid	"Nss Incentive Single Nil"
+msgstr 	"At NIL incentive"
+
+msgid	"Nss Incentive Single 50"
+msgstr 	"Gifts/Incentive up to 50% of cover price"
+
+msgid	"Ss Cat Single General"
+msgstr 	"General"
+
+msgid	"Ss Cat Single School"
+msgstr 	"School"
+
+msgid	"Ss Cat Single Institutional"
+msgstr 	"Institutional"
+
+msgid	"Ss Cat Single Others"
+msgstr 	"Others"
+
+msgid	"Ss Incentive Single Nil"
+msgstr 	"At Nil inducement of cover price"
+
+msgid	"Ss Incentive Single 50"
+msgstr 	"Upto 50% inducement of cover price"
+
+msgid	"Ss Incentive Single 90"
+msgstr 	"Upto 90% inducement of cover price"
+
+msgid	"Ss Sa Single Copy Sales"
+msgstr 	"Single Copy"
+
+msgid	"Ss Sa Combo Sales Copies"
+msgstr 	"Combo Copies"
+
+msgid	"Ss Sa Single Copy Subscription"
+msgstr 	"Single Copy subscription"
+
+msgid	"Ss Sa Joint Subscription Copies"
+msgstr 	"Joint Subscription copies"
+
+msgid	"Ss Sa Institutional Subscription Copies"
+msgstr 	"Institutional Subscription copies"
+
+msgid	"Ss Sa Institutional Sale Copies"
+msgstr 	"Institutional sale copies"
+
+msgid	"client edit user"
+msgstr 	"Edit Profile"
+
+msgid	"client add user"
+msgstr 	"New Member Registration"
+
+msgid	"rni details"
+msgstr 	"RNI Details"
+
+msgid	"client add rni detail"
+msgstr 	"client add RNI Detail"
+
+msgid	"client edit rni detail"
+msgstr 	"client edit RNI Detail"
+
+msgid	"admin add rni detail"
+msgstr 	"admin add RNI Detail"
+
+msgid	"admin edit rni detail"
+msgstr 	"admin edit RNI Detail"
+
+msgid	"Size Of Page"
+msgstr 	"Size Of Page (in Sq cms)"
+
+msgid	"Width Of Column"
+msgstr 	"Width Of Column (in cms)"
+
+msgid	"Length Of Column"
+msgstr 	"Length Of Column (in cms)"
+
+msgid	"Total Month 1"
+msgstr 	"January"
+
+msgid	"Total Month 2"
+msgstr 	"February"
+
+msgid	"Total Month 3"
+msgstr 	"March"
+
+msgid	"Total Month 4"
+msgstr 	"April"
+
+msgid	"Total Month 5"
+msgstr 	"May"
+
+msgid	"Total Month 6"
+msgstr 	"June"
+
+msgid	"Cover Price Of The Publication"
+msgstr 	"Cover Price Of The Publication (Rs.)"
+
+msgid	"Trade Discount Offered To Trade"
+msgstr 	"Trade Discount Offered To Trade (Rs.)"
+
+msgid	"Net Realisation (Cover price - Trade Discount)"
+msgstr 	"Net Realisation (Cover price - Trade Discount) (Rs.)"
+
+msgid	"Waste Rate Per Kg"
+msgstr 	"Waste rate / Kg. (Rs.)"
+
+msgid	"Gsm"
+msgstr 	"GSM"
+
+msgid	"Size Of The Page"
+msgstr 	"Size of the page (Sq. cms.)"
+
+msgid	"Value in Waste per page"
+msgstr 	"Value in Waste per page (Rs.)"
+
+msgid	"Net Realisation"
+msgstr 	"Net Realisation (Cover price - Trade Discount)"
+
+msgid	"Actual Weight Of The Copy Min"
+msgstr 	"Actual Wt. Of The Copy (At minimum pagination)"
+
+msgid	"Actual Weight Of The Copy Max"
+msgstr 	"Actual Wt. Of The Copy (At maximum pagination)"
+
+msgid	"Weight Net Price"
+msgstr 	"Wt. of the copy at which net price to the trade and waste price are same.  i.e. cut off page level"
+
+msgid	"No Of Pages Net Price"
+msgstr 	"No. of pages at which net price to the trade and waste price are almost the same i.e. cut of page level"
+
+msgid	"Waste Price Per Issue Min"
+msgstr 	"Waste Price / Issue (At Minimum Pagination)"
+
+msgid	"Waste Price Per Issue Max"
+msgstr 	"Waste Price / Issue (At Maximum Pagination)"
+
+msgid	"Waste Price Per Issue Cutoff"
+msgstr 	"Waste Price / Issue (At Cut Off Pagination)"
+
+msgid	"NQC Single 10"
+msgstr 	"0 TO 10% below the NRR"
+
+msgid	"NQC Single 20"
+msgstr 	"10.1% TO 20% below the NRR"
+
+msgid	"NQC Single 100"
+msgstr 	"More than 20% above the NRR"
+
+msgid	"NQC Single Single Copy Sales"
+msgstr 	"Single Copy"
+
+msgid	"NQC Single Combo Sales Copies"
+msgstr 	"Combo Copies"
+
+msgid	"NQC Single Single Copy Subscription"
+msgstr 	"Single Copy Subscription"
+
+msgid	"NQC Single Joint Subscription Copies"
+msgstr 	"Joint Subscription Copies"
+
+msgid	"NQC Single Institutional Subscription Copies"
+msgstr 	"Institutional Subscription Copies"
+
+msgid	"NQC Single Institutional Sale Copies"
+msgstr 	"Institutional sale copies"
+
+msgid	"NQC Single Free Copies"
+msgstr 	"Free Copies"
+
+msgid	"NQC Single Non Qualifying Sales Other Than Nnr"
+msgstr 	"Copies Sold below NRR"
+
+msgid	"Sold At Trade Term"
+msgstr 	"Sold At Trade Term (%)"
+
+msgid	"Distribution Center Name"
+msgstr 	"Name and address of distribution center"
+
+msgid	"Name Address"
+msgstr 	"Name and address of distribution center"
+
+msgid	"Approx Average No Of Copies Supplied"
+msgstr 	"Approx.(average) no. of copies supplied"
+
+msgid	"WS Total Monthly Qualifying Circulation Weekdays Month 1"
+msgstr 	"January"
+
+msgid	"WS Total Monthly Qualifying Circulation Weekdays Month 2"
+msgstr 	"February"
+
+msgid	"WS Total Monthly Qualifying Circulation Weekdays Month 3"
+msgstr 	"March"
+
+msgid	"WS Total Monthly Qualifying Circulation Weekdays Month 4"
+msgstr 	"April"
+
+msgid	"WS Total Monthly Qualifying Circulation Weekdays Month 5"
+msgstr 	"May"
+
+msgid	"WS Total Monthly Qualifying Circulation Weekdays Month 6"
+msgstr 	"June"
+
+msgid	"Act Consmp Of Ns Ppr Incl Waste"
+msgstr 	"Actual Consumption of newsprint & other paper for the relevant period including wastage"
+
+msgid	"Instn Edu Inst"
+msgstr 	"Educational Institutions"
+
+msgid	"Instn Post Offices"
+msgstr 	"Post Offices"
+
+msgid	"Instn Hospitals"
+msgstr 	"Hospitals"
+
+msgid	"Single Nnr Below Nnr Within Qualifying"
+msgstr 	"Below the NRR, however within the qualifying criteria"
+
+msgid	"Nss Incentive Single 100"
+msgstr 	"Incentive > 50% of cover price however within the Qualifying Criteria"
+
+msgid	"white forms"
+msgstr 	"distribution statement"
+
+msgid	"INSTN Sales"
+msgstr 	"Institutional"
+
+msgid	"Extra 1"
+msgstr 	" "
+
+msgid	"Extra 2"
+msgstr 	" "
+
+msgid	"Extra 3"
+msgstr 	" "
+
+msgid	"Extra 4"
+msgstr 	" "
+
+msgid	"Extra 5"
+msgstr 	" "
+
+msgid	"Extra 6"
+msgstr 	" "
+
+msgid	"Extra 7"
+msgstr 	" "
+
+msgid	"Extra 8"
+msgstr 	" "
+
+msgid	"Extra 9"
+msgstr 	" "
+
+msgid	"Extra 10"
+msgstr 	" "
+
+msgid	"Average Rate In Waste Per Kg Prevalent In The Market Place"
+msgstr 	"Average rate in waste / kg. prevalent in the market place. (Rs.)"
+
+msgid	"Summary Reconciling Acquisition With Consumption"
+msgstr 	"We have checked the summary reconciling acquisition with consumption of newsprint <br/> and other paper with reference to the copies printed and thoroughly verified the wastage of <br/>which is an overall wastage inclusive of tare, core, tear-off, cut- wastage and spoils etc.(%)"
+
+msgid	"Opening Stock As On Reels"
+msgstr 	"1 Opening Stock as on   "
+
+msgid	"By Imports Reels"
+msgstr 	"   a) By Imports"
+
+msgid	"Purchase Of Newsprint Indegenious Reels"
+msgstr 	" Purchase Of Newsprint Indegenious"
+
+msgid	"Purchase Of Newsprint Imported Reels"
+msgstr 	"Purchase Of Newsprint Imported"
+
+msgid	"Loans Obtained If Any During Period Reels"
+msgstr 	"   b) Loans received back during the period"
+
+msgid	"Loans Received Back During The Period Reels"
+msgstr 	"3 a)Loans Obtained,if any,during period"
+
+msgid	"Consumption During The Period Including Wastage Reels"
+msgstr 	"   a) Consumption during the period , including wastage"
+
+msgid	"Loans Given If Any To Other Unit Reels"
+msgstr 	"   b) Loans given, if any to other unit"
+
+msgid	"Loans Returned To Other Publishers Reels"
+msgstr 	"   c) Loans returned to other publishers"
+
+msgid	"Other Units Reels"
+msgstr 	"   d) Other Units"
+
+msgid	"Other Consumption Reels"
+msgstr 	"   e) Other Consumption"
+
+msgid	"Closing Stock As On"
+msgstr 	"5 Closing Stock as on   "
+
+msgid	"Loans Due From Other Publishers As On Reels"
+msgstr 	"6 Loans due from other publishers as on  "
+
+msgid	"Loans Outstanding To Other Publishers Reels"
+msgstr 	"7 Loans outstanding to other publishers as on "
+
+msgid   "the white form could not be saved. Please, try again."
+msgstr 	"White form could not be saved. Duplicate record."
+
+msgid   "INCOMING CERTIFICATE"
+msgstr 	"Back to Incoming Certificate Dashboard"
+
+msgid   "Cover Price Details"
+msgstr 	"Cover Price"
+
+msgid   "Total categories"
+msgstr 	"Total"
+
+msgid   "Total incentives"
+msgstr 	"Total"
+
+msgid   "Total qualifying sales summary"
+msgstr 	"Total qualifying sales"
+
+msgid   "duplicate copy"
+msgstr 	"Facsimile Copy"
+
+msgid   "Edit Duplicate Copy Request"
+msgstr 	"Edit Facsimile Copy Request"
+
+msgid   "client edit duplicate copy"
+msgstr 	"Edit Facsimile Copy Request"
+
+msgid   "client add duplicate copy"
+msgstr 	"Add Facsimile Copy Request"
+
+msgid   "Sale Type Name"
+msgstr 	"Single | Combo | Institutional"
+
+msgid   "Single copy Sales"
+msgstr 	"Single Copy"
+
+msgid   "Combo Copy Sales"
+msgstr 	"Combo Copies"
+
+msgid   "Subscription Sales"
+msgstr 	"Subscription"
+
+msgid   "Institutional Sales"
+msgstr 	"Institutional"
+
+msgid   "Free Copies"
+msgstr 	"Free Copies"
+
+msgid   "Weight Per Page"
+msgstr 	"Wt. / Page"
+
+msgid   "File Pub Confr Letter"
+msgstr 	"Publishers Confirmation Letter"
+
+msgid   "File Letter Of Auth"
+msgstr 	"Letter Of Authority"
+
+msgid   "Total breakup of subscription copies sold at various incentives"
+msgstr 	"Total"
+
+msgid   "statement a newsprint"
+msgstr 	"Statement A Newsprint"
+
+msgid   "Combo Name"
+msgstr 	"Combo Along With"
+
+msgid   "Type Of Printing Machine"
+msgstr 	"Type Of Printing Machine(s)"
+
+msgid   "Proposer 1 Representative Name"
+msgstr 	"Proposed by"
+
+msgid   "Proposer 2 Representative Name"
+msgstr 	"Seconded by"
+
+msgid   "Member Status Name"
+msgstr 	"Membership Status"
+
+msgid   "Prefix Name"
+msgstr 	"Prefix"
